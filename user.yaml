@@ -1,0 +1,11 @@
+var:
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    bopomofo: 1523029020
+    luna_pinyin: 1533536602
+    luna_pinyin_simp: 1523760672
+    stroke: 1533536582
